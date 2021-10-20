@@ -77,8 +77,8 @@
 			<layout>default</layout>
 		</repository>
 		<repository>
-			<id>mulesoft-releases</id>
-			<name>MuleSoft Releases Repository</name>
+			<id>Repo2</id>
+			<name>Repo2</name>
 			<url>https://repository.mulesoft.org/releases/</url>
 			<layout>default</layout>
 		</repository>
