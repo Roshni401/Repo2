@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<app.runtime>4.3.0-20210622</app.runtime>
+		<app.runtime>4.3.0</app.runtime>
 		<mule.maven.plugin.version>3.5.2</mule.maven.plugin.version>
 		
 <sonar.sources>src/main/mule</sonar.sources>
@@ -38,7 +38,7 @@
                          <username>roshnis</username>
                          <password>Prakash@26</password>
                          <environment>Sandbox</environment>
-                         <muleVersion>4.3.0-20210622</muleVersion>
+                         <muleVersion>4.3.0</muleVersion>
                          <workers>1</workers>
                           <workerType>Micro</workerType>
                          <applicationName>muleapp</applicationName>
